@@ -24,7 +24,7 @@ This is a simple **File Sharing Service** built with Node.js and Express, design
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/mkakhidze/file-sharing-service.git
+git clone https://github.com/miriankakhidze/file-sharing-service.git
 cd file-sharing-service
 ```
 
